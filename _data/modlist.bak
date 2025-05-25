@@ -54,10 +54,10 @@
     "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
   },
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.5.0"
+    "author": "Mawy",
+    "name": "Craftable",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Linkolas",
@@ -260,12 +260,6 @@
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mawy",
-    "name": "Craftable",
     "steamId": null,
     "version": null
   }
