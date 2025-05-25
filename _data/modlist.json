@@ -24,6 +24,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
+    "name": "Yuran race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ssulunge",
     "name": "FemaleBB BodyType Support",
     "steamId": "1792668502",
@@ -34,6 +46,18 @@
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "11.0.5"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Ancot Library",
+    "steamId": "2988801276",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -198,54 +222,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk, Reann Shepard and xrushha",
-    "name": "Vanilla Races Expanded - Archon",
-    "steamId": "3067715093",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Fungoid",
-    "steamId": "3042690053",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Highmate",
-    "steamId": "2995385834",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
-    "name": "Vanilla Races Expanded - Hussar",
-    "steamId": "2893586390",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Lycanthrope",
-    "steamId": "3114453100",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
-    "name": "Vanilla Races Expanded - Phytokin",
-    "steamId": "2927323805",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Neronix17",
-    "name": "Vanilla Races Expanded - Saurid",
-    "steamId": "2880990495",
-    "version": "1.0.9134.15252"
-  },
-  {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
@@ -268,5 +244,167 @@
     "name": "Craftable",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Chaoura Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Eveliet Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Idearn Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Littluna Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Littluna EX",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Nearmare Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Nearmare EX",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Neclose Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Neclose UC",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Qualeela Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Saclean Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Asari and Reapers",
+    "steamId": "2651149728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HenTaiLoliTeam",
+    "name": "MoeLotl Race",
+    "steamId": "3292351432",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ancot",
+    "name": "Milira Race",
+    "steamId": "3256974620",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Silkiera Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Silkiera EX",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Solark EX",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Solark Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Idhale EX",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Idhale Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Xenoorca Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Xenoorca EX",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[Aya]Zoichor Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ashilstraza",
+    "name": "Argonians of Blackmarsh",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WRelicK",
+    "name": "WRelicK's English Ayameduki Race Translations - Eveliet, Chaoura, Idearn, Idhale, Littluna, Nearmare, NC, NX, QL, SL, SK, SA, XO",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WRelicK",
+    "name": "Ayameduki Tweaks 2.0",
+    "steamId": "3429757626",
+    "version": "1.0.0.0"
   }
 ]
